@@ -18,4 +18,8 @@ Organizo requisitos, decisões, riscos e roteiros de validação em um segundo c
 - **AgendaSaaS** · Testes de integração de autenticação e permissões com JUnit e Testcontainers, contrato HTTP com Playwright e cobertura Java com JaCoCo. Repositório privado.
 - **Carta para Nikola** · Regressões de física e classificação e testes Playwright em Chromium para as três pistas e controles por teclado e toque. [Repositório](https://github.com/JoaquimcartaxoQA/carta-para-nikola) · [PR de regressão e cobertura](https://github.com/JoaquimcartaxoQA/carta-para-nikola/pull/4)
 
+## Estudos e IA aplicada
+
+Prompts e documentação estruturada para apoiar análise e revisão de QA. Estudo e aplico arquitetura de IA em projetos freelance, com MCP, agentes autônomos, sistemas multiagentes, RAG, embeddings e DevOps com IA e Harness. Também aprofundo a prática em testes de integração e arquitetura de aplicações.
+
 [Portfólio](https://joaquimcartaxoqa.github.io/) · [LinkedIn](https://www.linkedin.com/in/joaquim-cartaxo-qa/)
