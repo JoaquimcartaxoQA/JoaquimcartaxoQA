@@ -6,7 +6,7 @@ QA Sênior com mais de 10 anos em qualidade de software. Trabalho com estratégi
 
 - **Plataforma de Monitoramento de APIs** · MVP que correlaciona eventos JSONL por `requestId`, protege detalhes com autenticação e audita acessos em PostgreSQL. [Código e instruções](https://github.com/JoaquimcartaxoQA/api-monitoring-platform) · [PR de testes e cobertura](https://github.com/JoaquimcartaxoQA/api-monitoring-platform/pull/1)
 - **Senior QA Engineering Mentor** · Plugin privado instalado. Usa módulos especializados de estratégia, automação, cobertura e diagnóstico com revisão de evidências e autorização humana.
-- **Automação de QA para Bug Reports** · Implementação parcial de um fluxo agendado de triagem de suporte e preparação de relatos reproduzíveis, com aprovação humana prevista antes da abertura no Jira. Validação de ponta a ponta pendente.
+- **Automação de QA para Bug Reports** · Implementação de um fluxo agendado de triagem de suporte e preparação de relatos reproduzíveis, com aprovação humana prevista antes da abertura no Jira. Validação de ponta a ponta pendente.
 - **Agent Log Viewer** · Arquitetura em planejamento para investigar logs em linguagem natural, correlacionar eventos e fundamentar diagnósticos nos registros disponíveis.
 
 Organizo requisitos, decisões, riscos e roteiros de validação em um segundo cérebro no Obsidian. Uso esse contexto para retomar investigações e revisar recomendações de IA.
