@@ -5,7 +5,7 @@ QA Sênior com mais de 10 anos em qualidade de software. Trabalho com estratégi
 ## Soluções autorais de QA
 
 - **Plataforma de Monitoramento de APIs** · Plataforma que correlaciona eventos JSONL por `requestId`, protege detalhes com autenticação e audita acessos em PostgreSQL. [Código e instruções](https://github.com/JoaquimcartaxoQA/api-monitoring-platform) · [PR de testes e cobertura](https://github.com/JoaquimcartaxoQA/api-monitoring-platform/pull/1)
-- **Senior QA Engineering Mentor** · Plugin privado instalado no ChatGPT. Usa módulos especializados de estratégia, automação, cobertura e diagnóstico com revisão de evidências e autorização humana.
+- **Senior QA Engineering Mentor** · Plugin privado instalado. Usa módulos especializados de estratégia, automação, cobertura e diagnóstico com revisão de evidências e autorização humana.
 - **Automação de QA para Bug Reports** · Implementação de um fluxo agendado de triagem de suporte e preparação de relatos reproduzíveis, com aprovação humana prevista antes da abertura no Jira.
 - **Agent Log Viewer** · Arquitetura em planejamento para investigar logs em linguagem natural, correlacionar eventos e fundamentar diagnósticos nos registros disponíveis.
 
